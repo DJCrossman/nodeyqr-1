@@ -1,0 +1,26 @@
+# JavaScript
+
+## Exercises
+
+* [Exercise 1](./index1.js)
+* [Exercise 2](./index2.js)
+* [Exercise 12](./index12.js)
+* [Exercise 13](./index13.js)
+* [Exercise 15](./index15.js)
+* [Exercise 27](./index27.js)
+* [Exercise 33](./index33.js)
+* [Exercise 34](./index34.js)
+* [Exercise 35](./index35.js)
+* [Exercise 36](./index36.js)
+* [Exercise 41](./index41.js)
+* [Exercise 49](./index49.js)
+* [Exercise 61](./index61.js)
+* [Exercise 86](./index86.js)
+* [Exercise 100](./index100.js)
+* [Exercise 107](./index107.js)
+* [Exercise 123](./index123.js)
+* [Exercise 125](./index125.js)
+* [Exercise 127](./index127.js)
+* [Exercise 135](./index135.js)
+* [Exercise 141](./index141.js)
+* [Exercise 152](./index152.js)
