@@ -1,0 +1,15 @@
+include product-mixin
+doctype html
+html(lang='en')
+  head
+    title= title
+  body
+    if !title
+      h1 Welcome! This is a gaming site!
+    else
+      h1=title
+    each product in products
+      section
+        +product(product)
+      
+    
