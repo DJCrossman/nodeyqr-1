@@ -1,0 +1,14 @@
+<table class="table table-bordered table-hover">
+    <thead>
+    <tr>
+      <th>Id</th>
+      <th>Title</th>
+    </tr>
+    </thead>
+    <tbody >
+      <tr *ngFor="let comic of comics" (click)="onSelectComic(comic)">
+        <td>{{comic.num}}</td>
+        <td>{{comic.title}}</td>
+      </tr>
+    </tbody>
+  </table>
